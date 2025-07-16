@@ -35,12 +35,12 @@
 </p>
 <table>
   <tr>
-    <td>
+    <td width="35%">
       <a href="https://github.com/nghiahuu085002" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiahuu085002&theme=dracula&layout=compact" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiahuu085002&layout=compact" width="100%">
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="65%">
       <a href="https://github.com/nghiahuu085002" target="_blank">
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="50%" >
       </a>
